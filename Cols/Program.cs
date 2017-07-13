@@ -24,7 +24,9 @@ namespace Cols
 
         public static int Get(int i,int j)
         {
+            var i = j;
             return i + j;
+
         }
     }
 }
