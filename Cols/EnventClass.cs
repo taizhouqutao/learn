@@ -61,8 +61,6 @@ namespace Cols
 
             dealer.NewCarInfo -= michael.NewCarIsHere;
             dealer.NewCar("Red Bull Racing");
-
-            return;
         }
     }
 }
